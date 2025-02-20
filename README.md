@@ -1,2 +1,2 @@
 # Simple-Plagiarism-Checker
-i. can see though u :D
+I can see through u :D
